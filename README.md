@@ -73,7 +73,7 @@ uvicorn main:app --reload
 ## <u>GraphQL queries</u>
 
 
-### 1) View all players
+#### 1) View all players
 ```bash
 query {
   players {
