@@ -1,0 +1,7 @@
+ariadne~=0.19.1
+uvicorn~=0.22.0
+fastapi~=0.95.2
+SQLalchemy~=2.0.15
+alembic~=1.11.1
+python-dotenv~=1.0.0
+pathlib~=1.0.1
